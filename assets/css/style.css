@@ -7,8 +7,8 @@
     border-top: 0;
     border-radius: 5px;
     background: linear-gradient(to right,
-        #c4e17f 0%, #c4e17f 12.5%,
-        #f7fdca 12.5%, #f7fdca 25%,
+        #b3ff00 0%, #c4e17f 12.5%,
+        #e1ff00 12.5%, #f7fdca 25%,
         #fecf71 25%, #fecf71 37.5%,
         #f0776c 37.5%, #f0776c 50%,
         #db9dbe 50%, #db9dbe 62.5%,
@@ -25,7 +25,7 @@
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
-    background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
+    background-image: linear-gradient(rgb(134, 18, 230), rgb(118, 54, 190));
 }
 
 /* ==================================================
@@ -68,7 +68,7 @@
 }
 
 .btn.btn-signin {
-    background-color: rgb(104, 145, 162);
+    background-color: rgb(11, 63, 207);
     font-weight: 700;
     font-size: 14px;
     height: 36px;
@@ -80,7 +80,7 @@
 .btn.btn-signin:hover,
 .btn.btn-signin:active,
 .btn.btn-signin:focus {
-    background-color: rgb(12, 97, 33);
+    background-color: rgb(33, 60, 216);
 }
 
 /* ==================================================
